@@ -1,0 +1,5 @@
+{
+  "name": "Commute Vibes - Daily Music Curator",
+  "description": "A minimalist music recommendation app that provides 7 curated songs daily for your commute based on your preferred theme or genre, with a focus on K-Pop and International hits.",
+  "requestFramePermissions": []
+}
